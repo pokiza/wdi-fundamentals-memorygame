@@ -7,7 +7,7 @@
  console.log("User flipped king" );
 
 
-var cards = ["Queen", "Queen", "King", "King" ,"King"];
+var cards = ["Queen", "Queen", "King", "King"];
 
 var cardsInPlay = [];
 
